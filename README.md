@@ -73,6 +73,8 @@ En la captura del video, la pestaña del navegador muestra el ícono de sonido: 
 
 ## Pruebas
 
+![flutter test](evidencia/07_flutter_test.png)
+
 5 pruebas en `test/`:
 
 - `obtener_lugares_test.dart` (3): prueba los casos de uso del Dominio con un repositorio falso, sin Flutter ni multimedia.
